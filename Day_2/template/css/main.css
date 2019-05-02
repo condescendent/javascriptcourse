@@ -1,0 +1,35 @@
+#test-div{
+    width: 100px;
+    height:100px;
+    background-color:red;
+
+}
+
+.centered{
+    text-align:center;
+}
+
+
+header{
+   
+   background-color: Orange;
+
+}
+
+
+a{
+     text-decoration:none;
+     color: black;
+
+}
+
+article{
+    float:left;
+    width:30%;
+    margin:0 1% 0 1%;
+}
+
+.clearfix{
+    clear:both;
+}
+
